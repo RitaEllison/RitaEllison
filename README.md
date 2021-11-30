@@ -6,5 +6,7 @@ Hi, I'm Rita
 		🖥️: I am new to Computer Programming
 		
 		
-Connect With Me
+Connect With Me:
+
 [FACEBOOK](https://www.facebook.com/login/)
+[LINKEDIN](https://www.linkedin.com/login/)

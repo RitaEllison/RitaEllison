@@ -6,7 +6,7 @@
 🖥️: I am currently learning Python 
 		
 		
-## Connect With Me:
-[a link] (https://facebool.com)
+## Connect With Me: 🌍
+
 
 

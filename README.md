@@ -7,7 +7,7 @@ Hi, I'm Rita
 		
 		
 Connect With Me:
+![image](https://user-images.githubusercontent.com/89491405/144104834-0f1a6030-1c3e-41d5-995b-3f00feea1d62.png)
 
-(https://www.iconfinder.com/icons/107117/square_facebook_icon), (https://www.iconfinder.com/icons/294671/linkedin_icon)
 
 

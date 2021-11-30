@@ -1,4 +1,4 @@
-Hi, I'm Rita 
+## Hi, I'm Rita 
 😀: I enjoy volunteering for Environmental Justice
 
 		🚀: I enjoy reading about Space Exploration
@@ -6,7 +6,7 @@ Hi, I'm Rita
 		🖥️: I am new to Computer Programming
 		
 		
-Connect With Me:
+## Connect With Me:
 
 
 

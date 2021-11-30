@@ -7,4 +7,4 @@ Hi, I'm Rita
 		
 		
 Connect With Me
-[I'm an inline-style](https://www.google.com)
+[FACEBOOK](https://www.facebook.com/login/)

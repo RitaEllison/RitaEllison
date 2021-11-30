@@ -7,6 +7,6 @@ Hi, I'm Rita
 		
 		
 Connect With Me:
-
+[linkedin]: https://linked.com/in/RitaEllison
 
 

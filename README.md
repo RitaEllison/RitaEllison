@@ -7,6 +7,6 @@ Hi, I'm Rita
 		
 		
 Connect With Me:
-(834722_facebook_icon_png)
+
 
 

@@ -4,3 +4,7 @@ Hi, I'm Rita
 		🚀: I enjoy reading about Space Exploration
 
 		🖥️: I am new to Computer Programming
+		
+		
+Connect With Me
+[I'm an inline-style](https://www.google.com)

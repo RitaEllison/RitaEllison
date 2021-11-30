@@ -3,10 +3,10 @@
 
 🚀: I enjoy reading about Space Exploration
 
-🖥️: I am new to Computer Programming
+🖥️: I am currently learning Python 
 		
 		
-## Connect With Me:
+# Connect With Me:
 
 
 

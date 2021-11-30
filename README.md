@@ -8,5 +8,6 @@ Hi, I'm Rita
 		
 Connect With Me:
 
-[FACEBOOK](https://www.facebook.com/login/)
-[LINKEDIN](https://www.linkedin.com/login/)
+(https://www.iconfinder.com/icons/107117/square_facebook_icon), (https://www.iconfinder.com/icons/294671/linkedin_icon)
+
+
